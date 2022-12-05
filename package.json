@@ -1,0 +1,20 @@
+{
+  "name": "mha-superhero-list-server",
+  "version": "1.0.0",
+  "description": "Extensive list of My Hero Academia superheroes - test repo - server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steakncheese/MHA-superhero-list-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steakncheese/MHA-superhero-list-server/issues"
+  },
+  "homepage": "https://github.com/steakncheese/MHA-superhero-list-server#readme"
+}
